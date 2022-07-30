@@ -2,7 +2,6 @@
 Assignment 4 W8D5 - SDA - Software QA Bootcamp
 
 
-
 ## Table of contents
 * [Question](#question)
 * [Answer](#answer)
@@ -30,7 +29,7 @@ Add them as a library in the classpath of the project
 - _click-reight on the file project >Build path > configure Bild path > Java Build Path > Libraries > classpath > add external JARs > Apply and close_.
 
 ### Third:
-I Opened the website, then write four Xpath using 'Ancestor' axes method.
+I Opened the website, then write four Xpath using 'preceding' axes method.
 
 - XPath= //a//preceding::a[text()='Landing Pages']
 
